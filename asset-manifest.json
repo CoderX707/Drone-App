@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Drone-App/static/css/main.a9da5a51.css",
+    "main.js": "/Drone-App/static/js/main.d9a835cc.js",
+    "static/js/787.3e7fac9d.chunk.js": "/Drone-App/static/js/787.3e7fac9d.chunk.js",
+    "static/media/drone.svg": "/Drone-App/static/media/drone.5044d8b919461d8d9c691ef85403125b.svg",
+    "index.html": "/Drone-App/index.html",
+    "main.a9da5a51.css.map": "/Drone-App/static/css/main.a9da5a51.css.map",
+    "main.d9a835cc.js.map": "/Drone-App/static/js/main.d9a835cc.js.map",
+    "787.3e7fac9d.chunk.js.map": "/Drone-App/static/js/787.3e7fac9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9da5a51.css",
+    "static/js/main.d9a835cc.js"
+  ]
+}
